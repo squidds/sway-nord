@@ -1,4 +1,4 @@
-# sway-nord
+# Sway + Nord minimal config
 
 Just my basic setup files for my Sway config. 
 
